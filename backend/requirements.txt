@@ -1,0 +1,27 @@
+# ---------- Core Backend ----------
+fastapi
+uvicorn
+python-multipart
+
+# ---------- CORS ----------
+starlette
+
+# ---------- Database & Auth ----------
+sqlalchemy
+passlib[bcrypt]
+python-jose
+
+# ---------- Computer Vision / ML ----------
+ultralytics
+opencv-python
+pillow
+numpy
+
+# ---------- Plant Info ----------
+wikipedia
+
+# ---------- LLM / RAG (Phase 3) ----------
+embedchain
+
+# ---------- Utilities ----------
+requests
